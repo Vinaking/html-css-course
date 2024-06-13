@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  height: 3000px;
+  padding-top: 80px;
+  padding-left: 90px;
+  padding-right: 20px;
+  background-color: aliceblue;
+}
+
+@media (min-width: 1000px) {
+  body {
+    padding-left: 138px;
+  }
+}
+
+p {
+  font-family: Roboto, Arial;
+}
